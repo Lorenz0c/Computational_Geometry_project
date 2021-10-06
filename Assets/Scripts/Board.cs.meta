@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 12ddda887f5869447a4e250f35c4be26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selected_object_material: {fileID: 2100000, guid: 7c45c5056d916704d8cf620105143d41,
+      type: 2}
+  - orange_color_1: {fileID: 2100000, guid: 342bc5940a7fe214292d0978cecb05c1, type: 2}
+  - orange_color_2: {fileID: 2100000, guid: 17d1569c6a068af46aa414ef20c9f069, type: 2}
+  - moving_piece_material: {fileID: 2100000, guid: 2e2b121fbc55704478a107d9e4121a4f,
+      type: 2}
+  - orange_color_special_moves: {fileID: 2100000, guid: 337ba41cf2bf17747ad26e448db3e54d,
+      type: 2}
+  - blue_king_check_material: {fileID: 2100000, guid: 2f91a7dc4a998fd4092223fb07f94767,
+      type: 2}
+  - green_board: {fileID: 2100000, guid: 27a6fd9e04fe46e4eab90df8b89f0e0e, type: 2}
+  - yellow_board: {fileID: 2100000, guid: 7fcd77bdf90a995478be847ebdd755fd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
